@@ -11,7 +11,7 @@
 
 ### Supported versions Unreal Engine: 5.2, 5.1
 
-### For all questions, you can write here: voorhu@gmail.com
+### For all questions, you can write here: <a href="https://discord.gg/4DsA7JB89f" target="_blank">Discord</a> 
 
 # Documentation
 
